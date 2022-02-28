@@ -1,7 +1,7 @@
 {
   "name": "pw-alejandro-guerra",
   "version": "1.0.0",
-  "description": "",
+  "description": "kkkk",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir build",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Irene2607/pw-alejandro-guerra.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "lulu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Irene2607/pw-alejandro-guerra/issues"
